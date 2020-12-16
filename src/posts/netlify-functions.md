@@ -2,8 +2,8 @@
 layout: post
 title: Netlify Functions setup
 excerpt: New project Netlify Functions setup
-date: 1945-05-05
-updatedDate: 1945-05-05
+date: 2020-12-13
+updatedDate: 2020-12-15
 tags:
   - post
   - orcas
@@ -24,13 +24,13 @@ It must be this!
 and the base endpoint for netlify lambda functions is
 
 ```json
-PROJECT_URL/.netlify/functions/FILENAME.js
-
+www.yoursite.com/.netlify/functions/functionjsfile
 ```
 
 The function prototype looks like this
 
 ```js
+// functionjsfile.js
 export async function handler(event, context) {
 	const something = "some data"
 	return {

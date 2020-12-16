@@ -1,11 +1,11 @@
 {
   "name": "11r",
-  "description": "america's favorite eleventy blog template",
-  "url": "https://reeseschultz.github.io",
-  "baseUrl": "/11r/",
+  "description": "Hargobind Atwal's blog",
+  "url": "https://blog.hargobindatwal.com",
+  "baseUrl": "/",
   "author": {
-    "handle": "@TheReeseSchultz",
-    "name": "Reese Schultz"
+    "handle": "@ethiapath",
+    "name": "Hargobind Atwal"
   },
   "images": {
     "twitter": "twitter.jpg",
