@@ -27,8 +27,8 @@
   @apply bg-orange-700;
 }
 
-.tag.beer {
-  @apply bg-teal-700;
+.tag.code {
+  @apply bg-green-700;
 }
 
 .tag.spirituality {

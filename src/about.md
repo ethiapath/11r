@@ -4,6 +4,11 @@ title: About
 path: about
 ---
 
-This website is a live example of an Eleventy template — it's not a real blog.
+This blog is the cybernetic extension of Hargobind Atwal's brain
 
-People using this template may want to add some information to this page about them or their business.
+It's mostly just technology musings and computer procedures I forget a lot.
+Also programming notes
+
+I am looking for job.
+
+You can contact me at cargobin@pm.me

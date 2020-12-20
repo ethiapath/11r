@@ -9,7 +9,8 @@
   },
   "images": {
     "twitter": "twitter.jpg",
-    "og": "og.jpg"
+    "og": "og.jpg",
+    "doomFPS": ""
   },
   "feed": {
     "filename": "feed.xml",

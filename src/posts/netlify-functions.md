@@ -6,8 +6,7 @@ date: 2020-12-13
 updatedDate: 2020-12-15
 tags:
   - post
-  - orcas
-  - beer
+  - code
 draft: false
 ---
 
@@ -60,5 +59,21 @@ and add to your `package.json`
 "build:lambda": "netlify-lambda build functionsDir",
 "build:frontend": "react-scripts build"
 ```
+
+Also install the netlif cli
+```
+npm install -g netlify-cli
+```
+
+[I highly recommend Volta to install node cli tools. It will download the right version of node and other packages for the tool](https://volta.sh)
+
+
+Then you can run `ntl dev`
+
+And test your serverless endpoints 
+```
+localhost:8080/.netlify/functions/functionjsfile
+```
+
 
 
