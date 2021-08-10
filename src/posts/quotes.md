@@ -8,6 +8,7 @@ tags:
   - post
   - beer
   - cats
+draft: true
 ---
 
 > To the dumb question "Why me?" the cosmos barely bothers to return the reply: why not?
